@@ -1,6 +1,6 @@
 # Prompts
 
-This reponsitory contains a collection of the prompts I use to help make my life easier.
+This reponsitory contains a collection of the prompts I use to help make my life easier.  The file *Prompt-Template* us a template for creating new prompts using Markdown.
 
 Here is a list of the prompts in this repository:
 
