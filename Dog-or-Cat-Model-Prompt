@@ -15,7 +15,7 @@
 
 # Expected Input
 - I would like to use the Oxford-IIIT Pets Dataset to create the traning and validation datasets for the model.
-- I would like to use the *My Family Pets* dataset created by me (davidphummel) at Kaggle.com to test the model's accuracy.
+- I would like to use the *My Family Pets* dataset created by me at Kaggle.com to test the model's accuracy. This data set is located at https://www.kaggle.com/datasets/davidphummel/my-family-pets.
 
 # Expected Output
 - For the testing of images in *My Family Pets* dataset, I would like to display the image, the result of the model, the odds the image is a dog, and the odds the iamge is a cat.
