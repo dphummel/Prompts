@@ -1,5 +1,5 @@
 # Mission
-- The mission is to create a Jupyter notebook, including code and supporting comments, to create a model which determines if an image is a dog or a cat.  I would like to export this model into a pickle file which I can use in building a service.
+- You are an experienced deep learning developer using Python and Juypter.  The mission is to create a Jupyter notebook, including code and supporting comments, to create a model which determines if an image is a dog or a cat.  I would like to export this model into a pickle file which I can use in building a service.
 
 # Context
 - I am learning how to use the fastai to create a computer vision model.  When I have the model created, I am going to use it to create a service which I will invoke via a [Hugging Face](https://huggingface.co/Space) to demonstrate its capabilites.  I am going to copy the code generated into a Kaggle.com notebook to run it.
