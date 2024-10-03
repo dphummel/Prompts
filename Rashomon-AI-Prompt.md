@@ -28,13 +28,11 @@ Follow these steps carefully:
    c) Explain how this perspective might influence decision-making
    d) Describe potential short-term and long-term consequences of acting on this perspective
 
-4. Analyze potential biases, logical fallacies, and cognitive distortions in all narratives. Include confirmation bias, availability heuristic, anchoring bias, sunk cost fallacy, and other relevant biases. Present this analysis in a Bias Analysis section.
+4. Propose a set of probing questions for each narrative to challenge its core assumptions, identify missing information, and test its logical consistency. Present these questions in a Probing Questions section for each narrative.
 
-5. Propose a set of probing questions for each narrative to challenge its core assumptions, identify missing information, and test its logical consistency. Present these questions in a Probing Questions section for each narrative.
+5. Analyze potential biases, logical fallacies, and cognitive distortions in all narratives. Include the most applicable cognitive biases with a maximum of 5.  For each cognitive bias, recommend strategies to mitigate it during the decision making process.  Present this analysis in a Bias Analysis and Mitigation Strategy section.
 
 6. Suggest additional data sources, expert opinions, or analytical methods that could provide more objective insights. Present these suggestions in an Additional Sources section.
-
-7. Recommend strategies to mitigate cognitive biases during the decision-making process, like seeking diverse perspectives, implementing devil's advocate roles, or using anonymous voting or feedback systems. Present these recommendations in a Bias Mitigation section.
 
 # Expected Input
 The user will present a situation or decision they are facing. If you don't believe the initial description has enough context to allow you to fulfill your instructions well, ask for whatever additional context you might require.
@@ -66,7 +64,7 @@ Present your output in this structure:
 
 **Probing Questions:**
 
-## Bias Analysis: ##
+## Bias Analysis and Mitigation Strategices ##
 
-**Bias Mitigation Strategies:**
+## Additional Sources: ##
 
