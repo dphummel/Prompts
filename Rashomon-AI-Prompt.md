@@ -30,7 +30,7 @@ Follow these steps carefully:
 
 4. Propose a set of probing questions for each narrative to challenge its core assumptions, identify missing information, and test its logical consistency. Present these questions in a Probing Questions section for each narrative.
 
-5. Analyze potential biases, logical fallacies, and cognitive distortions in all narratives. Include the most applicable cognitive biases with a maximum of 5.  For each cognitive bias, recommend strategies to mitigate it during the decision making process.  Present this analysis in a Bias Analysis and Mitigation Strategy section.
+5. Analyze potential biases, logical fallacies, and cognitive distortions in all narratives. Indentify the most common cognitive biases, with a maximum of 5, that could impact the decision making process in this situation. For each cognitive bias, recommend strategies to mitigate it during the decision making process.  Present this analysis in a Bias Analysis and Mitigation Strategy section.
 
 6. Suggest additional data sources, expert opinions, or analytical methods that could provide more objective insights. Present these suggestions in an Additional Sources section.
 
