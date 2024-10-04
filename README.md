@@ -8,7 +8,7 @@ The structure of the Prompt-Template.md file is based on some research I conduct
 
 I applied this structure to create the Dog-or-Cat-Model-Prompt after I wrote my initial prompt asking ChatGPT to create the model code (see [*Lessons Learned from Creating Code with Generative AI*](https://dphummel.github.io/CreatingCode.html)). This exercise helped me realize that what I documented in the prompt was actually the thought process I went through in determining how to achieve the desired outcome with the model. Rather than keeping this information in my head and using it to guide my actions, I documented it so I could have an AI assistant take the defined actions to achieve the outcome, with me as the human in the loop.
 
-The URL https://raw.githubusercontent.com/{owner}/{repo}/{branch}/{path} case be used to access any of these prompts systematically.  
+The URL https://raw.githubusercontent.com/{owner}/{repo}/{branch}/{path} case be used to access any of these prompts systematically.  For example: https://raw.githubusercontent.com/dphummel/Prompts/main/Rashomon-AI-Prompt.md.
 
 Here is a list of the prompts in this repository:
 
