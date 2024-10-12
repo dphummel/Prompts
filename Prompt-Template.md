@@ -1,5 +1,6 @@
 # Mission
 - Goal you want to acheive
+- Role you want the chatbot to play
 
 # Context
 - Background information including why you need to achieve the goal
