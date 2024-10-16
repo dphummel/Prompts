@@ -12,7 +12,7 @@ The URL https://raw.githubusercontent.com/{owner}/{repo}/{branch}/{path} case be
 
 Here is a list of the prompts in this repository:
 
-- **Book-Review-Prompt**: Provide an expert review of a book review.
+- **Book-Review-Prompt**: Provide an expert review of a book review.  Original source:  University of North Carolina at Chapel Hill
 - **Dog-or-Cat-Model-Prompt**: Generate a Jupyter notebook to create a computer vision model to determine if an image is a dog or a cat. I have used this prompt to analyze how various chatbots create code.
 - **Negotiation-Prompt**: Teach negotiation skills. Original source: Elan Mollick in the book Co-Intelligence (page xiv).
 - **Rashomon-AI-Prompt**: Combat cognitive biases by providing alternative narratives as to the cause of a situation. Original source: Confluence for 7.14.2024.
