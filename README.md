@@ -13,7 +13,7 @@ The URL https://raw.githubusercontent.com/{owner}/{repo}/{branch}/{path} case be
 Here is a list of the prompts in this repository:
 
 - **Prompt-Template**: Standard template for creating prompts.
-- **Prompt-Template-CRIT**: Template for creating prompts using Geoff Woods CRIT framework.  This template varies from Prompt-Template in that it asks the AI to interview you to gather additional information by asking targeted questions.  This enables the AI to gather additional context about the situation which you might not have thought to provide in the Context.
+- **Prompt-Template-CRIT**: Template for creating prompts using Geoff Woods' CRIT framework.  This template differs from Prompt-Template in that it asks the AI to interview you to gather additional information by asking targeted questions.  This enables the AI to gather additional context about the situation which you might not have thought to provide in the Context.
 - **Process-Improvement-Prompt**: Based on the CRIT framework, this prompt will generative ideas on how AI could help you improve a process.
 - **Book-Review-Prompt**: Provide an expert review of a book review.  Original source:  University of North Carolina at Chapel Hill
 - **Dog-or-Cat-Model-Prompt**: Generate a Jupyter notebook to create a computer vision model to determine if an image is a dog or a cat. I have used this prompt to analyze how various chatbots create code.
